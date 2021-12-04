@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @PopeWPeachTEa
-- 👀 I’m interested in Programming Drawing Making Music N Sports
-- 🌱 I’m currently learning
-- 💞️ I’m looking to collaborate on Nothing
-- 📫 How to reach me ... dont
+BING BONG
